@@ -1,0 +1,6 @@
+numpy
+requests
+
+
+
+#pip install -r requirements.txt
